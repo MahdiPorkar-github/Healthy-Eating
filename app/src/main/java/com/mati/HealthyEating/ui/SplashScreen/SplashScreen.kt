@@ -62,7 +62,7 @@ fun SplashScreen(onNextPage: () -> Unit) {
         )
 
         Text(
-            text = "Mr Mati",
+            text = "Mahdi PK",
             modifier = Modifier
                 .fillMaxWidth()
                 .height(50.dp)
